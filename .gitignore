@@ -1,0 +1,9 @@
+# local only (submission copy, internal notes, archive)
+submission/
+docs/
+bin/
+.venv/
+__pycache__/
+*.pyc
+*.npz
+~$*
