@@ -7,3 +7,5 @@ __pycache__/
 *.pyc
 *.npz
 ~$*
+guide/
+BTP_Learning_Guide.pdf
